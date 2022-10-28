@@ -2,4 +2,5 @@ The Rainbow
 blue
 orange 
 green
+yellow 
 these are the colours of the rainbow 
